@@ -8,5 +8,5 @@ numpy==1.26.4
 pandas==2.2.2
 matplotlib==3.9.2
 av==10.0.0
-aiortc==1.9.0
+aiortc>=1.11.0
 pyee==11.1.0
